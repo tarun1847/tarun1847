@@ -4,9 +4,9 @@
 
 I am an Engineering student currently pursuing my B.Tech in Computer Science.
 
-## Skills
+## Project
 
-| Skill                                         | Associated Project         |
+| Project                                       | Associated Links           |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
