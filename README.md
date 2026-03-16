@@ -8,8 +8,8 @@ I am an Engineering student currently pursuing my B.Tech in Computer Science.
 
 | Project                                       | Associated Links           |
 |-----------------------------------------------|----------------------------|
-| SOAR EDR LAB          | <a href="https://github.com/tarun1847/SOAR-EDR-lab">Detection Lab</a>|
-|   | <a href="https://google.com">Detection Lab</a>|
+| SOAR EDR LAB          | <a href="https://github.com/tarun1847/SOAR-EDR-lab">Click Here</a>|
+| Cryptography Project  | <a href="https://github.com/tarun1847/cryptographyProject">Click Here</a>|
 
 
 
