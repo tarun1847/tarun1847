@@ -8,9 +8,9 @@ I am an Engineering student currently pursuing my B.Tech in Computer Science.
 
 | Project                                       | Associated Links           |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| SOAR EDR LAB          | <a href="https://github.com/tarun1847/SOAR-EDR-lab">Detection Lab</a>|
+|   | <a href="https://google.com">Detection Lab</a>|
+
 
 
 ## Tools
